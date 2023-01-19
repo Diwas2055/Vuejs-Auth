@@ -52,3 +52,7 @@ Error - "digital envelope routines::unsupported ... ERR_OSSL_EVP_UNSUPPORTED"\
     - For storing data gotten from our API
 - Vue-Router
     - For navigation and protection of Routes
+
+### Project Setup
+
+- Look at setup.md file
